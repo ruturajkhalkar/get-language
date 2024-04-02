@@ -1,0 +1,23 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "get language",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run getlanguage "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruturajkhalkar/get-language.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "ruturaj khalkar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ruturajkhalkar/get-language/issues"
+  },
+  "homepage": "https://github.com/ruturajkhalkar/get-language#readme"
+}
